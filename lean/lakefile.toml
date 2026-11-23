@@ -1,1 +1,6 @@
-4 lines above 
+name = "siftweave"
+version = "0.1.0"
+defaultTargets = ["Siftweave"]
+
+[[lean_lib]]
+name = "Siftweave"
